@@ -1,0 +1,11 @@
+F:\NetCore\Redis\EscritorCache\EscritorCache\bin\Debug\netcoreapp2.0\EscritorCache.deps.json
+F:\NetCore\Redis\EscritorCache\EscritorCache\bin\Debug\netcoreapp2.0\EscritorCache.runtimeconfig.json
+F:\NetCore\Redis\EscritorCache\EscritorCache\bin\Debug\netcoreapp2.0\EscritorCache.runtimeconfig.dev.json
+F:\NetCore\Redis\EscritorCache\EscritorCache\bin\Debug\netcoreapp2.0\EscritorCache.dll
+F:\NetCore\Redis\EscritorCache\EscritorCache\obj\Debug\netcoreapp2.0\EscritorCache.csprojAssemblyReference.cache
+F:\NetCore\Redis\EscritorCache\EscritorCache\obj\Debug\netcoreapp2.0\EscritorCache.csproj.CoreCompileInputs.cache
+F:\NetCore\Redis\EscritorCache\EscritorCache\obj\Debug\netcoreapp2.0\EscritorCache.AssemblyInfoInputs.cache
+F:\NetCore\Redis\EscritorCache\EscritorCache\obj\Debug\netcoreapp2.0\EscritorCache.AssemblyInfo.cs
+F:\NetCore\Redis\EscritorCache\EscritorCache\bin\Debug\netcoreapp2.0\EscritorCache.pdb
+F:\NetCore\Redis\EscritorCache\EscritorCache\obj\Debug\netcoreapp2.0\EscritorCache.dll
+F:\NetCore\Redis\EscritorCache\EscritorCache\obj\Debug\netcoreapp2.0\EscritorCache.pdb
